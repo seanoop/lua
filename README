@@ -4,3 +4,9 @@ This is Lua 5.3.0 (beta), released on 23 Oct 2014.
 For installation instructions, license details, and
 further information about Lua, see doc/readme.html.
 
+About Lua
+Lua is a powerful, fast, lightweight, embeddable scripting language developed by a team at PUC-Rio, the Pontifical Catholic University of Rio de Janeiro in Brazil. Lua is free software used in many products and projects around the world.
+
+Lua's official web site provides complete information about Lua, including an executive summary and updated documentation, especially the reference manual, which may differ slightly from the local copy distributed in this package.
+
+ref: http://www.lua.org/manual/5.3/readme.html
